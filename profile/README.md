@@ -1,14 +1,16 @@
-# bunless
-Small systems software for Linux and Unix.
+<div align=center>
+  
+**bunless**
+
+**Small systems software for Linux and Unix.**
+
+</div>
 
 ## Projects
-### nxinit
-A minimal init system and service supervisor for Linux.
-[Repository → https://github.com/bunless/nxinit]
-
-### minicore
-A small collection of Unix utilities written in Hare.
-[Repository → https://github.com/bunless/minicore]
+| Project | Description |
+|---|---|
+| [**nxinit**](https://github.com/bunless/nxinit) | A minimal init and supervisor for Linux. |
+| [**minicore**](https://github.com/bunless/minicore) | A busybox implementation written in [Harelang](https://harelang.org) |
 
 ## Philosophy
 We prefer to write small, understandable software with minimal dependencies.
@@ -17,4 +19,4 @@ We prefer to write small, understandable software with minimal dependencies.
 Projects are experimental and under active development.
 
 ## License
-MIT
+Released under the [**MIT License**](https://opensource.org/licenses/MIT)
